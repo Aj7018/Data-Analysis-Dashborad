@@ -8,10 +8,17 @@ The dashboard provides a comprehensive view of key business metrics and data ins
 
 
 ## Key Performance Indicators (KPIs):
-Display the total premium collected: KPI card summarizing the total amount of premiums collected.
-Show the average age of stakeholders: KPI card presenting the average stakeholder age.
-Highlight the total Value Created for insurers or stakeholders where Assets under Management is 'Equity': KPI card focusing on value creation under equity management.
-Identify the highest value created by a single insurer: KPI card showcasing the top-performing insurer by value created.
+-Display the total premium collected: KPI card summarizing the total amount of premiums collected.
+-Show the average age of stakeholders: KPI card presenting the average stakeholder age.
+-Highlight the total Value Created for insurers or stakeholders where Assets under Management is 'Equity': KPI card focusing on value creation under equity management.
+-Identify the highest value created by a single insurer: KPI card showcasing the top-performing insurer by value created.
 
+
+# Dashboard
+
+
+
+
+- Dashboard Image -<a href= "https://github.com/Aj7018/Data-Analysis-Dashborad/blob/main/Screenshot%202026-04-29%20153504.png">view Dashboard </a>
 
 
