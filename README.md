@@ -37,6 +37,11 @@ Dashboard Image -<a href= "https://github.com/Aj7018/Data-Analysis-Dashborad/blo
 ## Dashboard
 <img width="1594" height="785" alt="Screenshot 2026-04-29 153504" src="https://github.com/user-attachments/assets/a28f9c21-b9e7-4045-a251-09aebb9c5444" />
 
+## Accessing Role-Specific Data:
+- Log in with your assigned credentials.
+- Your role determines the data you can view (e.g., insurers, stakeholders, policy data).
+
+
 
 
 
