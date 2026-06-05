@@ -14,11 +14,13 @@ The dashboard provides a comprehensive view of key business metrics and data ins
 -Identify the highest value created by a single insurer: KPI card showcasing the top-performing insurer by value created.
 
 
-# Dashboard
+Dashboard Image -<a href= "https://github.com/Aj7018/Data-Analysis-Dashborad/blob/main/Screenshot%202026-04-29%20153504.png">view Dashboard </a>
+
+## Dashboard
+<img width="1594" height="785" alt="Screenshot 2026-04-29 153504" src="https://github.com/user-attachments/assets/a28f9c21-b9e7-4045-a251-09aebb9c5444" />
 
 
 
 
-- Dashboard Image -<a href= "https://github.com/Aj7018/Data-Analysis-Dashborad/blob/main/Screenshot%202026-04-29%20153504.png">view Dashboard </a>
 
 
